@@ -1,7 +1,7 @@
 {
   "name": "eslavondigital/search-docs-bot-vk",
-  "description": "The package is designed to organize convenient interaction with VK API when developing chatbots for the VK platform.",
-  "type": "library",
+  "description": "Search docs bot.",
+  "type": "project",
   "license": "MIT",
   "authors": [
     {
