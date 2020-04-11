@@ -1,0 +1,27 @@
+{
+  "name": "eslavondigital/search-docs-bot-vk",
+  "description": "The package is designed to organize convenient interaction with VK API when developing chatbots for the VK platform.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Victor Vinogradov",
+      "email": "eslavondigital@gmail.com",
+      "homepage": "https://vk.com/winogradow.wiktor",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Eslavon\\Sdb\\": "src/"
+    }
+  },
+  "require": {
+    "php": "7.4.*",
+    "guzzlehttp/guzzle": "6.*",
+    "eslavondigital/vk-bot-api": "1.5",
+    "vlucas/phpdotenv": "^4.1",
+    "ext-json": "*"
+  }
+}
