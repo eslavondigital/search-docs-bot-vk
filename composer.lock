@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8628e782d52054066da69e0d9339f311",
+    "content-hash": "3d78711dfd41a148a5864a3baf7514b1",
     "packages": [
         {
             "name": "eslavondigital/vk-bot-api",
-            "version": "v1.5",
+            "version": "v1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/eslavondigital/vk-bot-api.git",
-                "reference": "75c06405df8d652437cb40ac0f56faef564f0707"
+                "reference": "bc995958967c90279a7acef12d024ab5c0b83faf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/eslavondigital/vk-bot-api/zipball/75c06405df8d652437cb40ac0f56faef564f0707",
-                "reference": "75c06405df8d652437cb40ac0f56faef564f0707",
+                "url": "https://api.github.com/repos/eslavondigital/vk-bot-api/zipball/bc995958967c90279a7acef12d024ab5c0b83faf",
+                "reference": "bc995958967c90279a7acef12d024ab5c0b83faf",
                 "shasum": ""
             },
             "require": {
@@ -46,7 +46,7 @@
                 }
             ],
             "description": "The package is designed to organize convenient interaction with VK API when developing chatbots for the VK platform.",
-            "time": "2020-04-11T10:12:04+00:00"
+            "time": "2020-04-12T11:17:36+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
