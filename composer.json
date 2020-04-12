@@ -20,7 +20,7 @@
   "require": {
     "php": "7.4.*",
     "guzzlehttp/guzzle": "6.*",
-    "eslavondigital/vk-bot-api": "1.5",
+    "eslavondigital/vk-bot-api": "1.6",
     "vlucas/phpdotenv": "^4.1",
     "ext-json": "*"
   }
